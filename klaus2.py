@@ -18,7 +18,7 @@ prev_input=0
 while True:
     input_state = GPIO.input(18)
     if input_state == False:
-                
+        #test        
         # Print text
         Epson.text(" \n")
         # Print image
