@@ -22,9 +22,11 @@ while True:
         # Print text
         Epson.text(" \n")
         # Print image
-        Epson.image("/home/pi/Desktop/klaus/Klaus.gif")
+        Epson.image("/home/pi/Desktop/klaus/01_Klaus.gif")
+        # Print image
+        Epson.image("/home/pi/Desktop/klaus/02_Erika.gif")		
         # Print text
-        Epson.text(" \n")
+        Epson.text(" \n \n \n")
         
         
         time.sleep(0.05)
