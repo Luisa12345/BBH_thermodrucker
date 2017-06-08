@@ -18,15 +18,17 @@ Epson= printer.Usb(0x0416,0x5011)
 prev_input=0
 
 while True:
-    input_state = GPIO.input(18)
-    if input_state == False:
+    german_button = GPIO.input(18)
+    english_button = GPIO.input(15)
+	
+    if german_buttone == False:
                 
         # Print text
         Epson.text(" \n")
 		
 		# Print Prolog
         Epson.image("/home/pi/Desktop/klaus/00_Prolog.gif")
-		Epson.text(" \n \n \n")
+	    Epson.text(" \n \n \n")
 				
         # Print Klaus
         Epson.image("/home/pi/Desktop/klaus/01_Klaus.gif")
@@ -59,16 +61,8 @@ while True:
         # Print text
         Epson.text(" \n \n \n")
         
-        
-        time.sleep(0.05)
-        
-        input_state= True
-        
-		
-		
-while True:
-    input_state = GPIO.input(15)
-    if input_state == False:
+  
+    elif english_button == False:
                 
         # Print text
         Epson.text(" \n")
