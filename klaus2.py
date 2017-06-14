@@ -21,37 +21,46 @@ while True:
         #test        
         # Print text
         Epson.text(" \n")
+
+        # Print Prolog
+        Epson.image("/home/pi/Desktop/klaus/00_Prolog.gif")
+        Epson.text(" \n \n \n")
 		
         # Print Klaus
         Epson.image("/home/pi/Desktop/klaus/01_Klaus.gif")
-		Epson.text(" \n \n \n")
+        Epson.text(" \n \n \n")
 		
         # Print Erika
         Epson.image("/home/pi/Desktop/klaus/02_Erika.gif")		
-		Epson.text(" \n \n \n")
+        Epson.text(" \n \n \n")
 		
 		# Print Monika
-        Epson.image("/home/pi/Desktop/klaus/03_Monika.gif")	
-		Epson.text(" \n \n \n")
+        #Epson.image("/home/pi/Desktop/klaus/03_Monika.gif")	
+        Epson.text(" \n \n \n")
 		
 		# Print Golo
         Epson.image("/home/pi/Desktop/klaus/04_Golo.gif")	
-		Epson.text(" \n \n \n")
+        Epson.text(" \n \n \n")
 		
 		# Print Michael
         Epson.image("/home/pi/Desktop/klaus/05_Michael.gif")			
-		Epson.text(" \n \n \n")
+        Epson.text(" \n \n \n")
 		
 		# Print Elisabeth
         Epson.image("/home/pi/Desktop/klaus/06_Elisabeth.gif")		
-	    Epson.text(" \n \n \n")
+        Epson.text(" \n \n \n")
 		
 		# Print Leonie
-        Epson.image("/home/pi/Desktop/klaus/07_Leonie.gif")		
-		Epson.text(" \n \n \n")
+        Epson.image("/home/pi/Desktop/klaus/07_Leonie_01.gif")		
+        Epson.text(" \n \n \n")
+        
+        # Print Leonie
+        Epson.image("/home/pi/Desktop/klaus/08_Leonie_02.gif")		
+        Epson.text(" \n \n \n")
 		
         # Print text
         Epson.text(" \n \n \n")
+        
         
         
         time.sleep(0.05)
