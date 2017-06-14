@@ -26,35 +26,35 @@ while True:
         Epson.text(" \n")
 		
 		# Print Prolog
-        #Epson.image("/home/pi/Desktop/klaus/00_Prolog.gif")
+        #Epson.image("/home/pi/Desktop/BBH_thermodrucker/00_Prolog.gif")
         #Epson.text(" \n \n \n")
 				
         # Print Klaus
-        Epson.image("/home/pi/Desktop/klaus/01_Klaus.gif")
+        Epson.image("/home/pi/Desktop/BBH_thermodrucker/01_Klaus.gif")
         Epson.text(" \n \n \n")
 		
         # Print Erika
-        #Epson.image("/home/pi/Desktop/klaus/02_Erika.gif")		
+        #Epson.image("/home/pi/Desktop/BBH_thermodrucker/02_Erika.gif")		
         #Epson.text(" \n \n \n")
 		
 		# Print Monika
-        #Epson.image("/home/pi/Desktop/klaus/03_Monika.gif")	
+        #Epson.image("/home/pi/Desktop/BBH_thermodrucker/03_Monika.gif")	
         #Epson.text(" \n \n \n")
 		
 		# Print Golo
-        #Epson.image("/home/pi/Desktop/klaus/04_Golo.gif")	
+        #Epson.image("/home/pi/Desktop/BBH_thermodrucker/04_Golo.gif")	
         #Epson.text(" \n \n \n")
 		
 		# Print Michael
-        #Epson.image("/home/pi/Desktop/klaus/05_Michael.gif")			
+        #Epson.image("/home/pi/Desktop/BBH_thermodrucker/05_Michael.gif")			
         #Epson.text(" \n \n \n")
 		
 		# Print Elisabeth
-        #Epson.image("/home/pi/Desktop/klaus/06_Elisabeth.gif")		
+        #Epson.image("/home/pi/Desktop/BBH_thermodrucker/06_Elisabeth.gif")		
         #Epson.text(" \n \n \n")
 		
 		# Print Leonie
-        #Epson.image("/home/pi/Desktop/klaus/07_Leonie.gif")
+        #Epson.image("/home/pi/Desktop/BBH_thermodrucker/07_Leonie.gif")
         #Epson.text(" \n \n \n")
 		
 
@@ -64,35 +64,35 @@ while True:
         Epson.text(" \n")
 		
 		# Print Prolog
-        #Epson.image("/home/pi/Desktop/klaus/00_Prolog_ENG.gif")
+        #Epson.image("/home/pi/Desktop/BBH_thermodrucker/00_Prolog_ENG.gif")
         #Epson.text(" \n \n \n")
 				
         # Print Klaus
-        Epson.image("/home/pi/Desktop/klaus/01_Klaus_ENG.gif")
+        Epson.image("/home/pi/Desktop/BBH_thermodrucker/01_Klaus_ENG.gif")
         Epson.text(" \n \n \n")
 		
         # Print Erika
-        #Epson.image("/home/pi/Desktop/klaus/02_Erika_ENG.gif")		
+        #Epson.image("/home/pi/Desktop/BBH_thermodrucker/02_Erika_ENG.gif")		
         #Epson.text(" \n \n \n")
 		
 		# Print Monika
-        #Epson.image("/home/pi/Desktop/klaus/03_Monika_ENG.gif")
+        #Epson.image("/home/pi/Desktop/BBH_thermodrucker/03_Monika_ENG.gif")
         #Epson.text(" \n \n \n")
 		
 		# Print Golo
-        #Epson.image("/home/pi/Desktop/klaus/04_Golo_ENG.gif")	
+        #Epson.image("/home/pi/Desktop/BBH_thermodrucker/04_Golo_ENG.gif")	
         #Epson.text(" \n \n \n")
 		
 		# Print Michael
-        #Epson.image("/home/pi/Desktop/klaus/05_Michael_ENG.gif")			
+        #Epson.image("/home/pi/Desktop/BBH_thermodrucker/05_Michael_ENG.gif")			
         #Epson.text(" \n \n \n")
 		
 		# Print Elisabeth
-        #Epson.image("/home/pi/Desktop/klaus/06_Elisabeth_ENG.gif")		
+        #Epson.image("/home/pi/Desktop/BBH_thermodrucker/06_Elisabeth_ENG.gif")		
         #Epson.text(" \n \n \n")
 		
 		# Print Leonie
-        #Epson.image("/home/pi/Desktop/klaus/07_Leonie_ENG.gif")		
+        #Epson.image("/home/pi/Desktop/BBH_thermodrucker/07_Leonie_ENG.gif")		
         #Epson.text(" \n \n \n")
 		
         # Print text
